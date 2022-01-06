@@ -57,3 +57,28 @@ And enter it. And then copy the URL
 10. Back to CMD, and paste it. Click enter
 
 ![Step 10](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%209.1.png "Step 10")
+
+
+> **Tools**
+> - Processing API application, i use [Postman](https://www.postman.com/downloads/ "Download Postman")
+
+11. Close your CMD and see your folder. Open the <code>token.json</code>
+
+![Step 11](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2011.png "Step 11")
+
+12. Open Postman and create the new Workspace. Click Workspaces at the header of application, and Create Workspace
+
+![Step 12](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2012.png "Step 12")
+
+13. Fill all Forms and enter
+14. At the left of your Workspace, click import
+
+![Step 14](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2014.png "Step 14")
+
+15. Copy this code
+
+<code>curl 'https://api.myanimelist.net/v2/anime?q=one&limit=4' \
+-H 'Authorization: Bearer YOUR_TOKEN'</code>
+ and change YOUR_TOKEN. Click continue and click import
+
+![Step 15](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2015.png "Step 15")
