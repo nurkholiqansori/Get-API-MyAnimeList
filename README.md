@@ -28,3 +28,14 @@
 5. Click <code>Edit</code> on your API and the Section of **Client ID and Client Secret** that we will use
 
 ![Step 5](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%205.png "Step 5")
+
+
+> **Tools**
+> - [Python](https://www.python.org/downloads/ "Download Python") (At the time this tutorial was created, the latest version is 3.10.1)
+> - Code Editor, like Notepad++, VS Code, etc
+
+6. Download the code and open <code>mal.py</code> and change <code>YOUR_CLIENT_ID</code> and <code>YOUR CLIENT_SECRET</code>
+
+![Step 6](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%201.1.png "Step 6")
+
+7. Open CMD or PowerShell or GitBash on your computer and type <code>pip install requests secrets</code>
