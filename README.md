@@ -42,6 +42,18 @@
 
 ![Step 7](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%207.png "Step 7")
 
-And enter it
+And enter it. And then copy the URL
 
 ![Step 7.1](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%207.1.png "Step 7.1")
+
+8. Open your browser and paste the URL. Click <code>Allow</code>
+
+![Step 8](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%207.2.png "Step 8")
+
+9. After that you will be directed to the page that you have set in the API form. See in the URL box at your browser, copy code after <code>?code=</code>
+
+![Step 9](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%209.png "Step 9")
+
+10. Back to CMD, and paste it. Click enter
+
+![Step 10](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%2010.png "Step 10")
