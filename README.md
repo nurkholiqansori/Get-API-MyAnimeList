@@ -15,3 +15,16 @@
 
 ![Step 2](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%202.png "Step 2")
 
+3. Fill all forms about what your project, read the API License and Developer Agreement and accept it, and <code>Submit</code>
+
+> _For Section **App Logo URL, Privacy Policy URL, Terms of Use URL**_ is opsional
+
+![Step 3](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%203.png "Step 3")
+
+4. Return to list of your API. If there is a PUBLISHED message, then your API can already be used
+
+![Step 4](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%204.png "Step 4")
+
+5. Click <code>Edit</code> on your API and the Section of **Client ID and Client Secret** that we will use
+
+![Step 5](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%205.png "Step 5")
