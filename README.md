@@ -84,3 +84,11 @@ And enter it. And then copy the URL
 16. Click send and myanimelist api can already be used on the web 
 
 ![Step 16](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2016.png "Step 16")
+
+17. Click icon like code icon at the right of your Workspace.
+
+![Step 17](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2017.png "Step 17")
+
+And you can change the programming language you want. Click copy icon to copy code
+
+![Step 17.1](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2017.1.png "Step 17.1")
