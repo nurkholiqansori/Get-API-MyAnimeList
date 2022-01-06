@@ -38,4 +38,6 @@
 
 ![Step 6](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%201.1.png "Step 6")
 
-7. Open CMD or PowerShell or GitBash on your computer and type <code>pip install requests secrets</code>
+7. Open CMD or PowerShell or GitBash on your computer and type <code>pip install requests</code>
+
+![Step 7](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%207.png "Step 7")
