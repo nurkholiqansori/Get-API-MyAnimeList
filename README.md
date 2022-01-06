@@ -56,4 +56,4 @@ And enter it. And then copy the URL
 
 10. Back to CMD, and paste it. Click enter
 
-![Step 10](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%2010.png "Step 10")
+![Step 10](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%209.1.png "Step 10")
