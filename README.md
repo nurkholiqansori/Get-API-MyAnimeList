@@ -79,6 +79,8 @@ And enter it. And then copy the URL
 -H 'Authorization: Bearer YOUR_TOKEN'</code>
  and change YOUR_TOKEN to code access_token at <code>token.json</code>. Click continue and click import
 
+> _You can check all api url at [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2#section/Authentication "MyAnimeList API")_
+
 ![Step 15](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2015.png "Step 15")
 
 16. Click send and myanimelist api can already be used on the web 
