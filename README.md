@@ -41,3 +41,7 @@
 7. Open CMD or PowerShell or GitBash on your computer and type <code>pip install requests</code>
 
 ![Step 7](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%207.png "Step 7")
+
+And enter it
+
+![Step 7.1](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%207.1.png "Step 7.1")
