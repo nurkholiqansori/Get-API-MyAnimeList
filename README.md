@@ -75,10 +75,12 @@ And enter it. And then copy the URL
 
 ![Step 14](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2014.png "Step 14")
 
-15. Copy this code
-
-<code>curl 'https://api.myanimelist.net/v2/anime?q=one&limit=4' \
+15. Copy this code <code>curl 'https://api.myanimelist.net/v2/anime?q=one&limit=4' \
 -H 'Authorization: Bearer YOUR_TOKEN'</code>
- and change YOUR_TOKEN. Click continue and click import
+ and change YOUR_TOKEN to code access_token at <code>token.json</code>. Click continue and click import
 
 ![Step 15](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2015.png "Step 15")
+
+16. Click send and myanimelist api can already be used on the web 
+
+![Step 16](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%2016.png "Step 16")
