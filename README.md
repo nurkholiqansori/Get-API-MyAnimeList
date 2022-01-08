@@ -42,7 +42,7 @@
 
 ![Step 7](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/step%207.png "Step 7")
 
-And enter it. And then copy the URL
+Navigate first to the folder where your download the file. Type <code>py mal.py</code> and enter it. And then copy the URL
 
 ![Step 7.1](https://github.com/nurkholiqansori/apiMyAnimeList/blob/main/img/Step%207.1.png "Step 7.1")
 
